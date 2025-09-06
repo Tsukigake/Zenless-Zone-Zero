@@ -1,8 +1,8 @@
 # ゼンレスゾーンゼロ
 
-_月駆が作ったゼンゼロのコスプレで使う小物とかのデータ置き場_
+**_ゼンレスゾーンゼロにおける武器等3Dデータ集積所_**
 
-## 中にあるデータ
+## 利用可能データ
 
 ・浅羽悠真 : バックル
 
@@ -14,33 +14,7 @@ _月駆が作ったゼンゼロのコスプレで使う小物とかのデータ�
 
 ・青衣 : 武器
 
-## 利用について
-
-MITライセンスを守ってほしい。利用は自由！
-
-ライセンス全文 : https://opensource.org/license/mit
-
-ライセンス全文（日本語訳）：https://licenses.opensource.jp/MIT/MIT.html
-
-## データの使い方
-
-3Dプリンターとかレーザー加工機で使えるデータだよ！
-
-詳しくはwikiに書く（ちょっと待つべき）
-
-## 要望とか質問とか
-
-githubのこと知ってるひとは issues  
-
-githubわかんないーってひとは twitter(x) の dm　　
-
-にお願いします！
-
-リスポンスはtwitterのほうが早いです。たぶん
-
-## コンタクト
-
-・twitter(x) &nbsp; https://x.com/tsukigake_cos &nbsp; @tsukigake_cos
+## ライセンスについて
 
 ---
 
@@ -55,6 +29,12 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ---
+
+## コンタクト
+
+・twitter(x) &nbsp; https://x.com/tsukigake_cos &nbsp; @tsukigake_cos
+
+
 
 
 
